@@ -1,6 +1,6 @@
 # Molecular Discovery Chatbot
 
-[**Click Here for Project Demo**](tinyurl.com/MolecularDiscoveryChatbot)
+[**Click Here for Project Demo**](https://drive.google.com/file/d/13akbCWTQeEe0YwmL6KFE57UE2H2taZxm/view)
 
 The Molecular Discovery Chatbot employs low-cost open-source libraries to build and deploy an interactive front-end web chatbot with a specialized back-end Large Language model (LLM) for extracting and discovering chemical and biomedical knowledge about small molecules and proteins. The chatbot, a conversational artificial intelligence (AI) agent, integrates Natural Language Processing (NLP) techniques including (1) data pipelines (collection, loading, preprocessing, and tokenization), (2) fine-tuning a pre-trained LLM despite limited data and limited GPU computing, (3) data retrieval and management, and (4) deploying the resulting LLMs in local or cloud computing infrastructure (Google Colab). Compared to generic LLMs for natural languages, our specialized LLMs are for 1-dimensional “texts” of small molecules, such as SMILES strings, and those for proteins, such as amino-acid sequences.  Besides facilitating the public to acquire personalized knowledge about molecules of therapeutic value, the chatbot system promotes knowledge discovery for researchers in drug discovery and disease treatment.  By incorporating molecular texts with binding affinity data between small-molecule drug candidates and protein targets, the chatbot system is developed and benchmarked for its potential to suggest molecular modifications when prompted by user inputs.
 
